@@ -24,6 +24,8 @@ No, I don't intend that. The two earlier Quintuplets games got official English 
 
 ## Setup
 
+Download latest release: https://github.com/phamkv/gotokano/releases/tag/v1.0
+
 You need your own copy of the game, either on a Switch running custom firmware or dumped for an emulator. By downloading the patch, you agree in good faith that you are using it with a legally owned copy.
 
 How you install a LayeredFS mod depends on what you play on, so follow the mod guide for your setup:
